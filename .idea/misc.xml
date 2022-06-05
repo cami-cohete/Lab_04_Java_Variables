@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables CamilaEsquivelCerrillo" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables familyKids" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables gasPrice" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables isRaining" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables myBirthMonth" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables myFavNum" />
+      <entry_point TYPE="field" FQNAME="My_Own_Names_For_Variables myShoeSize" />
+    </entry_points>
+    <pattern value="My_Own_Names_For_Variables" />
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
